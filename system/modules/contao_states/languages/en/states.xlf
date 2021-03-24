@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.1">
+  <file datatype="php" original="system/modules/contao_states/languages/en/states.xlf" source-language="en">
+    <body>
+		<trans-unit id="STATES.us.AL">
+			<source>Alabama</source>
+		</trans-unit>
+		<trans-unit id="STATES.us.AK">
+			<source>Alaska</source>
+		</trans-unit>
+		<trans-unit id="STATES.us.AS">
+			<source>American Samoa</source>
+		</trans-unit>
+		<trans-unit id="STATES.us.AZ">
+			<source>Arizona</source>
+		</trans-unit>
+		<trans-unit id="STATES.us.AR">
+			<source>Arkansas</source>
+		</trans-unit>
+		<trans-unit id="STATES.us.CA">
+			<source>California</source>
+		</trans-unit>
+		<trans-unit id="STATES.us.CO">
+			<source>Colorado</source>
+		</trans-unit>
+		<trans-unit id="STATES.us.CT">
+			<source>Connecticut</source>
+		</trans-unit>
+		<trans-unit id="STATES.us.DE">
+			<source>Delaware</source>
+		</trans-unit>
+		<trans-unit id="STATES.us.DC">
+			<source>District of Columbia</source>
+		</trans-unit>
+		<trans-unit id="STATES.us.FL">
+			<source>Florida</source>
+		</trans-unit>
+		<trans-unit id="STATES.us.GA">
+			<source>Georgia</source>
+		</trans-unit>
+		<trans-unit id="STATES.us.GU">
+			<source>Guam</source>
+		</trans-unit>
+		<trans-unit id="STATES.us.HI">
+			<source>Hawaii</source>
+		</trans-unit>
+		<trans-unit id="STATES.us.ID">
+			<source>Idaho</source>
+		</trans-unit>
+		<trans-unit id="STATES.us.IL">
+			<source>Illinois</source>
+		</trans-unit>
+		<trans-unit id="STATES.us.IN">
+			<source>Indiana</source>
+		</trans-unit>
+		<trans-unit id="STATES.us.IA">
+			<source>Iowa</source>
+		</trans-unit>
+		<trans-unit id="STATES.us.KS">
+			<source>Kansas</source>
+		</trans-unit>
+		<trans-unit id="STATES.us.KY">
+			<source>Kentucky</source>
+		</trans-unit>
+		<trans-unit id="STATES.us.LA">
+			<source>Louisiana</source>
+		</trans-unit>
+		<trans-unit id="STATES.us.ME">
+			<source>Maine</source>
+		</trans-unit>
+		<trans-unit id="STATES.us.MD">
+			<source>Maryland</source>
+		</trans-unit>
+		<trans-unit id="STATES.us.MA">
+			<source>Massachusetts</source>
+		</trans-unit>
+		<trans-unit id="STATES.us.MI">
+			<source>Michigan</source>
+		</trans-unit>
+		<trans-unit id="STATES.us.MN">
+			<source>Minnesota</source>
+		</trans-unit>
+		<trans-unit id="STATES.us.MS">
+			<source>Mississippi</source>
+		</trans-unit>
+		<trans-unit id="STATES.us.MO">
+			<source>Missouri</source>
+		</trans-unit>
+		<trans-unit id="STATES.us.MT">
+			<source>Montana</source>
+		</trans-unit>
+		<trans-unit id="STATES.us.NE">
+			<source>Nebraska</source>
+		</trans-unit>
+		<trans-unit id="STATES.us.NV">
+			<source>Nevada</source>
+		</trans-unit>
+		<trans-unit id="STATES.us.NH">
+			<source>New Hampshire</source>
+		</trans-unit>
+		<trans-unit id="STATES.us.NJ">
+			<source>New Jersey</source>
+		</trans-unit>
+		<trans-unit id="STATES.us.NM">
+			<source>New Mexico</source>
+		</trans-unit>
+		<trans-unit id="STATES.us.NY">
+			<source>New York</source>
+		</trans-unit>
+		<trans-unit id="STATES.us.NC">
+			<source>North Carolina</source>
+		</trans-unit>
+		<trans-unit id="STATES.us.ND">
+			<source>North Dakota</source>
+		</trans-unit>
+		<trans-unit id="STATES.us.OH">
+			<source>Ohio</source>
+		</trans-unit>
+		<trans-unit id="STATES.us.OK">
+			<source>Oklahoma</source>
+		</trans-unit>
+		<trans-unit id="STATES.us.OR">
+			<source>Oregon</source>
+		</trans-unit>
+		<trans-unit id="STATES.us.PW">
+			<source>Palau</source>
+		</trans-unit>
+		<trans-unit id="STATES.us.PA">
+			<source>Pennsylvania</source>
+		</trans-unit>
+		<trans-unit id="STATES.us.PR">
+			<source>Puerto Rico</source>
+		</trans-unit>
+		<trans-unit id="STATES.us.RI">
+			<source>Rhode Island</source>
+		</trans-unit>
+		<trans-unit id="STATES.us.SC">
+			<source>South Carolina</source>
+		</trans-unit>
+		<trans-unit id="STATES.us.SD">
+			<source>South Dakota</source>
+		</trans-unit>
+		<trans-unit id="STATES.us.TN">
+			<source>Tennessee</source>
+		</trans-unit>
+		<trans-unit id="STATES.us.TX">
+			<source>Texas</source>
+		</trans-unit>
+		<trans-unit id="STATES.us.UT">
+			<source>Utah</source>
+		</trans-unit>
+		<trans-unit id="STATES.us.VT">
+			<source>Vermont</source>
+		</trans-unit>
+		<trans-unit id="STATES.us.VA">
+			<source>Virginia</source>
+		</trans-unit>
+		<trans-unit id="STATES.us.WA">
+			<source>Washington</source>
+		</trans-unit>
+		<trans-unit id="STATES.us.WV">
+			<source>West Virginia</source>
+		</trans-unit>
+		<trans-unit id="STATES.us.WI">
+			<source>Wisconsin</source>
+		</trans-unit>
+		<trans-unit id="STATES.us.WY">
+			<source>Wyoming</source>
+		</trans-unit>
+		<trans-unit id="STATES.ca.AB">
+			<source>Alberta</source>
+		</trans-unit>
+		<trans-unit id="STATES.ca.BC">
+			<source>British Columbia</source>
+		</trans-unit>
+		<trans-unit id="STATES.ca.MB">
+			<source>Manitoba</source>
+		</trans-unit>
+		<trans-unit id="STATES.ca.NB">
+			<source>New Brunswick</source>
+		</trans-unit>
+		<trans-unit id="STATES.ca.NL">
+			<source>Newfoundland and Labrador</source>
+		</trans-unit>
+		<trans-unit id="STATES.ca.NT">
+			<source>Northwest Territories</source>
+		</trans-unit>
+		<trans-unit id="STATES.ca.NS">
+			<source>Nova Scotia</source>
+		</trans-unit>
+		<trans-unit id="STATES.ca.NU">
+			<source>Nunavut</source>
+		</trans-unit>
+		<trans-unit id="STATES.ca.ON">
+			<source>Ontario</source>
+		</trans-unit>
+		<trans-unit id="STATES.ca.PE">
+			<source>Prince Edward Island</source>
+		</trans-unit>
+		<trans-unit id="STATES.ca.QC">
+			<source>Quebec</source>
+		</trans-unit>
+		<trans-unit id="STATES.ca.SK">
+			<source>Saskatchewan</source>
+		</trans-unit>
+		<trans-unit id="STATES.ca.YT">
+			<source>Yukon</source>
+		</trans-unit>
+    </body>
+  </file>
+</xliff>
