@@ -29,7 +29,7 @@ class States
 		$countries = array();
 		$arrAux = array();
 
-		static::loadLanguageFile('states');
+		System::loadLanguageFile('states');
 		include TL_ROOT .'/system/modules/contao_states/config/states.php';
 
 		foreach ($arrStates[$strCountry] as $strKey=>$strName)
