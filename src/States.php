@@ -13,6 +13,8 @@
 
 namespace ContaoStates;
 
+use Contao\System;
+
 
 class States
 {
@@ -132,5 +134,3 @@ class States
 	}
 
 }
-
-class_alias(States::class, 'States');
