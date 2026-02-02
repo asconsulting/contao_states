@@ -13,11 +13,11 @@
 
 namespace ContaoStates\Widget;
 
-use Contao\FormSelectMenu;
+use Contao\FormSelect;
 use ContaoStates\States;
 
 
-class FormStateSelectMenu extends FormSelectMenu
+class FormStateSelectMenu extends FormSelect
 {
 
 	/**
