@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.1">
+  <file datatype="php" original="contao_states/contao/languages/en/tl_form_field.xlf" source-language="en">
+    <body>
+      <trans-unit id="tl_form_field.includeCanada.0">
+        <source>Include Canada</source>
+      </trans-unit>
+      <trans-unit id="tl_form_field.includeCanada.1">
+        <source>Include Canadian provinces along with US states.</source>
+      </trans-unit>
+      <trans-unit id="tl_form_field.includeBlankOption.0">
+        <source>Include Blank Option</source>
+      </trans-unit>
+      <trans-unit id="tl_form_field.includeBlankOption.1">
+        <source>Shows "choose your state/province" as the first option.</source>
+      </trans-unit>
+      <trans-unit id="tl_form_field.blankOptionLabel.0">
+        <source>Blank Option Label</source>
+      </trans-unit>
+      <trans-unit id="tl_form_field.blankOptionLabel.1">
+        <source>Label for blank option.</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
